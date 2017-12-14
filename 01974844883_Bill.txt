@@ -1,0 +1,15 @@
+Name :Mustafiz		Phone Number : 01974844883	
+
+Seat : 2		Transaction No: 160777776
+
+Show Date: 18-07-17	printing Time :15-07-17 at 11:00:47
+
+-------------------------------------------------------------
+
+Show Time	Movie Name	Pakage	Ticket Price	
+11.00 am	Aynabaji	Premium	400	
+
+-------------------------------------------------------------
+                                    Total 800 BDT
+
+        ***Please Bring this Printed Bill***

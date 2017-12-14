@@ -1,0 +1,15 @@
+Name :		Phone Number : 	
+
+Seat : 2		Transaction No: 160787101
+
+Show Date: 15-07-17	printing Time :15-07-17 at 10:02:55
+
+-------------------------------------------------------------
+
+Show Time	Movie Name	Pakage	Ticket Price	
+01.00 pm	Nobab	Premium	400	
+
+-------------------------------------------------------------
+                                    Total 800 BDT
+
+        ***Please Bring this Printed Bill***

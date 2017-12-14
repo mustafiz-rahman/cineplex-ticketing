@@ -1,0 +1,6 @@
+Show Time	Movie Name	Pakage	Ticket Price	
+11.00 am	Aynabaji	Premium	450	
+11.00 am	Aynabaji	Regular	200	
+01.00 pm	Nobab	Regular	200	
+01.00 pm	Nobab	Premium	400	
+01.00 pm	Boss2	Regular	200	
